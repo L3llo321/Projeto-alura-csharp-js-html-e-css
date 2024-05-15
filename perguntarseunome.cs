@@ -1,4 +1,4 @@
-public class BaseClass
+public class Program
 {
     Console.WriteLine("Qual seu nome?");
     char nome = char.Parse(Console.ReadLine());
