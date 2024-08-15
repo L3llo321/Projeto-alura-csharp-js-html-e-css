@@ -28,4 +28,4 @@ jobs:
       run: dotnet build --configuration Release
 
     - name: Run application
-      run: dotnet run --project MyProject.csproj
+      run: dotnet run --project continua.csproj
