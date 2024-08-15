@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework> <!-- ou outra versão do .NET -->
+    <TargetFramework>net7.0</TargetFramework> <!-- ou outra versão do .NET -->
   </PropertyGroup>
 
 </Project>
